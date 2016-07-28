@@ -1,0 +1,1 @@
+java -javaagent:/home/rgorkovenko/utils/newrelic/newrelic.jar -jar target/netty-test.jar
